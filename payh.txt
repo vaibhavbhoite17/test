@@ -1,0 +1,16 @@
+#cdk-overlay-0 > div > div > button:nth-child(5)
+
+
+jspath:
+document.querySelector("#cdk-overlay-0 > div > div > button:nth-child(5)")
+
+
+copy element:
+
+<button class="mat-menu-item ng-star-inserted" mat-menu-item="" routerlinkactive="active" tabindex="0" ng-reflect-router-link="/app/settings/platfrom" ng-reflect-router-link-active-options="[object Object]" ng-reflect-router-link-active="active" role="menuitem" aria-disabled="false"> Trading Platform <div class="mat-menu-ripple mat-ripple" matripple="" ng-reflect-disabled="false" ng-reflect-trigger="[object HTMLButtonElement]"></div></button>
+
+
+
+xpath:
+
+//*[@id="cdk-overlay-0"]/div/div/button[3]
