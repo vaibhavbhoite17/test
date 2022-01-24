@@ -1,0 +1,22 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "name": "some comment",
+      "description": "some comment",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "name": "fgghhh",
+      "description": "ffff",
+      "price": "60"
+    },
+    {
+      "id": 3,
+      "name": "jfjfj",
+      "description": "jjfjfj",
+      "price": "777"
+    }
+  ]
+}
